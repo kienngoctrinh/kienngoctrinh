@@ -1,5 +1,5 @@
 ### Spotify Playing 🎧
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fopiw35oyatbbyqsp5snj64tra)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fopiw35oyatbbyqsp5snj64tra&count=1)
 
 ---
 
