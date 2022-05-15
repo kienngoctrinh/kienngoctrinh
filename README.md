@@ -20,6 +20,7 @@
 
 ### Databases:
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mysql.svg" />
-<br>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=kienngoctrinh&icon=8&color=9)](https://visitcount.itsvg.in)
+
