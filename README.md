@@ -3,8 +3,10 @@
 
 ---
 
-### 📊GitHub Stats :
+### 📊GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kienngoctrinh&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
 
 ### Tools:
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/sublimetext.svg" />
@@ -23,5 +25,6 @@
 <br>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=kienngoctrinh&icon=8&color=9)](https://visitcount.itsvg.in)
 
