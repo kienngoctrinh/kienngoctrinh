@@ -3,8 +3,6 @@
 
 ---
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kienngoctrinhh/) 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=kienngoctrinh&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kienngoctrinh&theme=default&hide_border=false)<br/>
