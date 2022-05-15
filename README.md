@@ -1,5 +1,5 @@
 ### Spotify Playing 🎧
-[<img src="https://spotify-playing-git-master.31fopiw35oyatbbyqsp5snj64tra.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/31fopiw35oyatbbyqsp5snj64tra)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fopiw35oyatbbyqsp5snj64tra)
 
 ---
 
